@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "715296848639",
+    "project_id": "auth-notesin",
+    "storage_bucket": "auth-notesin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715296848639:android:581814600a9269aca86aca",
+        "android_client_info": {
+          "package_name": "com.example.uas_akb_if3_10119097"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715296848639-hjhha9fr26bgr255nm87rird0167m93u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3PiOIWRQ7tH7FDyM7YwvWi6MdpRi-xAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715296848639-hjhha9fr26bgr255nm87rird0167m93u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715296848639:android:328961aa66e381efa86aca",
+        "android_client_info": {
+          "package_name": "com.xstudioo.simpledatabasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715296848639-hjhha9fr26bgr255nm87rird0167m93u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3PiOIWRQ7tH7FDyM7YwvWi6MdpRi-xAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715296848639-hjhha9fr26bgr255nm87rird0167m93u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
